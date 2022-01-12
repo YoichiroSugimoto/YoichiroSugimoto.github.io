@@ -25,7 +25,17 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 3. Make changes, commit, and push!
 4. After deployment, the webpage will become available at `<your-github-username>.github.io/<your-repository-name>/`.
 
-<details><summary>(click to expand) <strong>Manual deployment to GitHub Pages:</strong></summary>
+**Local deployment**
+
+```bash
+
+bundle exec jekyll serve
+
+```
+
+The go to [http://localhost:4000](http://localhost:4000)
+
+**Manual deployment to GitHub Pages:**
 
 If you need to manually re-deploy your website to GitHub pages, run the deploy script from the root directory of your repository:
 ```bash

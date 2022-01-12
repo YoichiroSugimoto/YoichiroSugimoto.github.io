@@ -4,6 +4,12 @@ layout: default
 <!-- page.html -->
         <div class="post">
 
+
+          <header class="post-header">
+            <h2 class="post-title">{{ page.title }}</h2>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
           <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -22,11 +28,6 @@ layout: default
           {%- endif %}
 
         </article>
-
-          <header class="post-header">
-            <h2 class="post-title">{{ page.title }}</h2>
-            <p class="post-description">{{ page.description }}</p>
-          </header>
 
           <article>
             {{ content }}
