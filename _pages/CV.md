@@ -2,6 +2,9 @@
 layout: page
 permalink: /CV/
 title: Curriculum Vitae
+profile:
+  align: right
+  image: prof_pic.jpg
 description:
 nav: true
 order: 3

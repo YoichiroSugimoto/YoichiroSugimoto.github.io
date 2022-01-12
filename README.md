@@ -1,9 +1,11 @@
 ## About
 
 This personal website of Yoichiro Sugimoto. 
+
+## Jekyll theme
 The design of website is based on [al-folio](https://github.com/alshedivat/al-folio) jekyll theme.
 
-## Getting started
+### Getting started
 
 #### Deployment
 
