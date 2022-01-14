@@ -49,10 +49,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: YoichiroSugimoto # your GitHub user name
-linkedin_username: yoichiro-sugimoto # your LinkedIn user name
-scholar_userid: K06WyycAAAAJ # your Google Scholar ID
-orcid_id: 0000-0003-1646-7679 # your ORCID ID
+## github_username: YoichiroSugimoto # your GitHub user name
+## linkedin_username: yoichiro-sugimoto # your LinkedIn user name
+## scholar_userid: K06WyycAAAAJ # your Google Scholar ID
+## orcid_id: 0000-0003-1646-7679 # your ORCID ID
 # work_url: # work page URL
 
 # rss_icon: true

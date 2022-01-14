@@ -10,6 +10,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 order: 1
+author: Yoichiro Sugimoto
+description: Yoichiro Sugimoto
 ---
 
 ---
@@ -21,3 +23,5 @@ I'm a Postdoctoral Training Fellow with Professor Sir Peter Ratcliffe at [the Fr
 RNA is known as a carrier of genetic information in the cell. RNA interacts with other molecules throughout the life cycle, and the interactions critically regulate the expression of the encoded genes. Furthermore, recent studies revealed a novel role of RNA-protein interactions. RNA and protein form a molecular condensate that creates a compartment in the cell like organelles to systematically regulate gene expression. Although the importance of RNA mediated gene expression regulation is reported in many contexts, its role in oxygen sensing is largely unknown.
 
 I am investigating pathways that regulate the processing or the interactions of RNAs in response to oxygen availability using cutting edge molecular biology and data science approaches. In addition, I have developed a series of novel experimental and computational technologies to systematically analyse the interactions and regulatory status of RNA (and other molecules). Currently, I am focusing on elucidating novel oxygen sensing mechanisms and their roles in health and disease.
+
+I am currently looking for highly motivated postdocs, Ph.D students, and research assistants to join our group at [the Max Delbrück Center for Molecular Medicine (Berlin, Germany)](https://www.mdc-berlin.de). If you are interested in RNA biology in homeostasis and disease, please send an email to me using the link below.
