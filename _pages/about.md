@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: <code>environment sensing</code>, <code>oxygen sensing</code>, <code>RNA</code>, <code>vascular system</code>, and <code>data science</code>
 
 profile:
   align: right
