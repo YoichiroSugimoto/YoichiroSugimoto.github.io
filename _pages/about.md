@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <code>RNA</code>, <code>oxygen sensing</code>, <code>vascular system</code>, and <code>data science</code>
-# profile:
-#   align: right
-#   image: prof_pic.jpg
+subtitle: <code>environment sensing</code>, <code>oxygen sensing</code>, <code>RNA</code>, <code>vascular system</code>, and <code>data science</code>
+profile:
+  align: right
+  image: prof_pic.jpg
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -16,12 +16,59 @@ description: Yoichiro Sugimoto
 
 ---
 
-I'm a Postdoctoral Training Fellow with Professor Sir Peter Ratcliffe at [the Francis Crick Institute (London, UK)](https://www.crick.ac.uk). I will start my own research group at [the Max Delbrück Center for Molecular Medicine (Berlin, Germany)](https://www.mdc-berlin.de) and within [the Berlin Center for Translational Vascular Biomedicine](https://www.bihealth.org/en/research/focus-areas/berlin-center-for-translational-vascular-biomedicine) from July 2022. Prior to joining the Ratcliffe lab, I worked at [the Boston Consulting Group](https://www.bcg.com/en-gb/). I received my Ph.D from [University of Cambridge (Cambridge, UK)](https://www.cam.ac.uk). During my Ph.D, I worked with Professor Jernej Ule at [the MRC Laboratory of Molecular Biology (Cambridge, UK)](https://www2.mrc-lmb.cam.ac.uk).
+### Work Experience
+---
+**Max Delbrück Center for Molecular Medicine**, Germany \| **Junior Group Leader** _(2022 - Present)_ <br>
 
-**My research aims to understand the molecular basis of oxygen sensing by human and other animals from the perspective of RNA biology.** Oxygen is an essential molecule for life. Yet, how we sense oxygen in health and disease has just come to be understood. Many key (patho)physiological responses to oxygen availability remain to be studied. Defining oxygen and other environment sensing pathways in the cell have, thereby, a great implication in our understanding on biology and in treating diseases such as vascular disease, cancer, neurodegenerative disease, and COVID-19.
+**The Francis Crick Institute**, the United Kingdom \| **Postdoctoral Training Fellow** _(2016 - 2022)_ <br>
+Supervisor\: Professor Sir Peter J. Ratcliffe 
 
-RNA is known as a carrier of genetic information in the cell. RNA interacts with other molecules throughout the life cycle, and the interactions critically regulate the expression of the encoded genes. Furthermore, recent studies revealed a novel role of RNA-protein interactions. RNA and protein form a molecular condensate that creates a compartment in the cell like organelles to systematically regulate gene expression. Although the importance of RNA mediated gene expression regulation is reported in many contexts, its role in oxygen sensing is largely unknown.
+**University College London**, the United Kingdom \| **Research Associate** _(2016-2016)_<br>
+Supervisor\: Professor Jernej Ule
 
-I am investigating pathways that regulate the processing or the interactions of RNAs in response to oxygen availability using cutting edge molecular biology and data science approaches. In addition, I have developed a series of novel experimental and computational technologies to systematically analyse the interactions and regulatory status of RNA (and other molecules). Currently, I am focusing on elucidating novel oxygen sensing mechanisms and their roles in health and disease.
+**Boston Consulting Group**, Japan \| **Senior Associate** _(2014-2016)_<br>
 
-I am currently looking for highly motivated postdocs, Ph.D students, and research assistants to join our group at [the Max Delbrück Center for Molecular Medicine (Berlin, Germany)](https://www.mdc-berlin.de). If you are interested in RNA biology in homeostasis and disease, please send an email to me using the link below.
+<br>
+
+
+### Education
+---
+**University of Cambridge \| Ph.D** _(2010-2014)_<br>
+Supervisor\: Professor Jernej Ule
+
+**The University of Tokyo \| Master of Integrated Biosciences** _(2008-2010)_<br>
+Supervisor: Professor Yoshikazu Nakamura
+
+**The University of Tokyo \| Bachelor of Engineering** _(2004-2008)_<br>
+Supervisor\: Professor Teruyuki Nagamune
+
+<br>
+
+### Selected Awards
+---
+**Medical Research Council Centenary Early Career Awards** _(2012-2013)_<br>
+
+**The scholarship from THE NAKAJIMA FOUNDATION** _(2010-2014)_<br>
+
+**Grants to attend Practical Workshop on High-Throughput Sequencing Data Analysis** _(2013)_<br>
+
+**Conference grants for EMBO conference: Eukaryotic RNA turnover** _(2013)_<br>
+
+
+<br>
+
+### Selected Oral Presentations
+---
+**Symposium in Molecular Medicine & Precision Medicine**, Norway _(2021)_<br>
+
+**Independent Group Leader Position in Data Science**, Germany _(2021)_<br>
+
+**University of Oxford, Friday Hypoxia Meeting**, the United Kingdom _(2020)_<br>
+
+**EMBO conference: Eukaryotic RNA turnover**, France _(2013)_<br>
+
+**Max Perutz Prize nominee student talks**, the United Kingdom _(2012)_<br>
+
+
+<br>
+
