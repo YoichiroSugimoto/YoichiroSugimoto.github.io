@@ -64,7 +64,6 @@ Supervisor\: Professor Teruyuki Nagamune
 
 **EMBO conference: Eukaryotic RNA turnover**, France _(2013)_<br>
 
-**Max Perutz Prize nominee student talks**, the United Kingdom _(2012)_<br>
 
 
 <br>
