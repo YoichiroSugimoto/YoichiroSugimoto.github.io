@@ -15,7 +15,7 @@ description: Yoichiro Sugimoto
 
 ### Work Experience
 ---
-**Max Delbrück Center for Molecular Medicine**, Germany \| **Junior Group Leader** _(2022 - Present)_ <br>
+**Max Delbrück Center for Molecular Medicine**, Germany \| **Group Leader** _(2022 - Present)_ <br>
 
 **The Francis Crick Institute**, the United Kingdom \| **Postdoctoral Training Fellow** _(2016 - 2022)_ <br>
 Supervisor\: Professor Sir Peter J. Ratcliffe 
